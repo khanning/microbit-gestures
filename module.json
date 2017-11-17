@@ -1,0 +1,11 @@
+{
+  "name": "bitlogo-vm",
+  "version": "2.0.0-rc9",
+  "description": "A logo virtual machine for the microbit.",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}

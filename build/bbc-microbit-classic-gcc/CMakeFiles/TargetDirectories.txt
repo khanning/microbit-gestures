@@ -1,0 +1,8 @@
+/Users/brian/files/projects/bitlogo-fvm/build/bbc-microbit-classic-gcc/ym/ble/source/CMakeFiles/ble.dir
+/Users/brian/files/projects/bitlogo-fvm/build/bbc-microbit-classic-gcc/source/CMakeFiles/bitlogo-vm.dir
+/Users/brian/files/projects/bitlogo-fvm/build/bbc-microbit-classic-gcc/ym/microbit/source/CMakeFiles/microbit.dir
+/Users/brian/files/projects/bitlogo-fvm/build/bbc-microbit-classic-gcc/ym/nrf51-sdk/source/CMakeFiles/nrf51-sdk.dir
+/Users/brian/files/projects/bitlogo-fvm/build/bbc-microbit-classic-gcc/CMakeFiles/all_tests.dir
+/Users/brian/files/projects/bitlogo-fvm/build/bbc-microbit-classic-gcc/ym/ble-nrf51822/source/CMakeFiles/ble-nrf51822.dir
+/Users/brian/files/projects/bitlogo-fvm/build/bbc-microbit-classic-gcc/ym/mbed-classic/existing/CMakeFiles/mbed-classic.dir
+/Users/brian/files/projects/bitlogo-fvm/build/bbc-microbit-classic-gcc/ym/microbit-dal/source/CMakeFiles/microbit-dal.dir
